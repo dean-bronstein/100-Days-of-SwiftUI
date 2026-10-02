@@ -26,7 +26,7 @@ import Playgrounds
     let name = "Taylor"
     let age = 26
     let message = "Hello, my name is \(name) and I am \(age) years old."
-    print message)
+    print (message)
     
     // Using constants (let) by default f or safety
     let maxLoginAttempts = 3
